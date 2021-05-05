@@ -1,0 +1,15 @@
+channel-grabber-tech-test-cli
+
+php cvs_json 
+php csv_json conv test
+php csv_json conv test.csv
+
+https://laravel-zero.com
+
+Allows seeding of the database with CSV files
+ https://packagist.org/packages/flynsarmy/csv-seeder
+
+./vendor/bin/pes
+
+
+
